@@ -30,7 +30,7 @@ colour** using a trained deep-learning model.
 
 ## How it works
 
-![Automotive_Bot architecture](assets/architecture.png)
+![Automotive_Bot architecture](architecture (2).png)
 
 The web server inspects each incoming message. If it looks like a path to an
 image file, the request is sent to the vision model. Otherwise it goes through
@@ -247,8 +247,3 @@ end-to-end, the following are still needed:
   Weaviate vector store is cloud-hosted.
 
 ---
-
-## License
-
-No license file is currently included. Add one (e.g. MIT) if you intend others to
-reuse this project.
