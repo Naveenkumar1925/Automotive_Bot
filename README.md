@@ -247,8 +247,3 @@ end-to-end, the following are still needed:
   Weaviate vector store is cloud-hosted.
 
 ---
-
-## License
-
-No license file is currently included. Add one (e.g. MIT) if you intend others to
-reuse this project.
